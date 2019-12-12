@@ -1,1 +1,0 @@
-one str in file
